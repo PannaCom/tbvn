@@ -312,14 +312,15 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Themes\default\VIews\Home\About.cshtml" />
-    <Content Include="Themes\default\VIews\Home\Contact.cshtml" />
-    <Content Include="Themes\default\VIews\Home\Index.cshtml" />
-    <Content Include="Themes\default\VIews\_ViewStart.cshtml" />
-    <Content Include="Themes\default\VIews\Shared\_Layout.cshtml" />
-    <Content Include="Themes\default\VIews\Shared\_LoginPartial.cshtml" />
-    <Content Include="Themes\default\VIews\Shared\Error.cshtml" />
-    <Content Include="Themes\default\VIews\Shared\Lockout.cshtml" />
+    <Content Include="Themes\default\Views\Home\About.cshtml" />
+    <Content Include="Themes\default\Views\Home\Contact.cshtml" />
+    <Content Include="Themes\default\Views\Home\Index.cshtml" />
+    <Content Include="Themes\default\Views\_ViewStart.cshtml" />
+    <Content Include="Themes\default\Views\Shared\_Layout.cshtml" />
+    <Content Include="Themes\default\Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Themes\default\Views\Shared\Error.cshtml" />
+    <Content Include="Themes\default\Views\Shared\Lockout.cshtml" />
+    <Content Include="Themes\default\Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

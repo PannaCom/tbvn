@@ -15,6 +15,7 @@ namespace tbvn
             MasterLocationFormats = new string[] { "~/Themes/" + themeName + "/Views/{1}/{0}.cshtml", "~/Themes/" + themeName + "/Views/Shared/{0}.cshtml", "~/Views/{1}/{0}.cshtml", "~/Views/Shared/{0}.cshtml" };
             PartialViewLocationFormats = new string[] { "~/Themes/" + themeName + "/Views/{1}/{0}.cshtml", "~/Themes/" + themeName + "/Views/Shared/{0}.cshtml", "~/Views/{1}/{0}.cshtml", "~/Views/Shared/{0}.cshtml" };
             ViewLocationFormats = new string[] { "~/Themes/" + themeName + "/Views/{1}/{0}.cshtml", "~/Themes/" + themeName + "/Views/Shared/{0}.cshtml", "~/Views/{1}/{0}.cshtml", "~/Views/Shared/{0}.cshtml" };
+            
           
         }
     }
