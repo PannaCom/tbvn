@@ -25,7 +25,6 @@ namespace tbvn
             Database.SetInitializer<ApplicationDbContext>(null);
             GlobalConfiguration.Configuration.Formatters.Clear();
             GlobalConfiguration.Configuration.Formatters.Add(new JsonMediaTypeFormatter());
-
             // Replace the Default WebFormViewEngine with our custom WebFormThemeViewEngine
             ViewEngines.Engines.Clear();
             ViewEngines.Engines.Add(new ThemedRazorViewEngine(ConfigurationManager.AppSettings["theme"]));
